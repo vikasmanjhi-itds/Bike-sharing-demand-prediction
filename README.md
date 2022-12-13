@@ -36,7 +36,7 @@ Data Pipeline:
 
 
 Observations:
-● Observation 1: In the Model Evaluation Matrices table, Linear Regression, KNN is not giving great results.
+● Observation 1: In the Model Evaluation Matrices table, Linear Regression.
 ● Observation 2: Random forest & GBR have performed equally good in terms of adjusted r2.
 
 
